@@ -77,7 +77,7 @@ about conflict.
 
 - **Communication Tools**: Be clear about how (email? Slack? Carrier pigeons?) students can get in touch with advisors and each other. You may want to stress norms about responding to emails and/or messages outside of work hours.
 
-- Norms for physical presence and/or online availability, as a way to support the research productivity of other members of the research group. 
+- **Availability**: What are the norms for physical presence and/or online availability, as a way to support the research productivity of other members of the research group?
 
 - **Calendars**: What is the group schedule? Is there a shared group calendar? Is there a departmental calendar of events that students need to be aware of?
 
@@ -154,12 +154,12 @@ Some people give students a quiz (e.g., via Google forms) to test that they have
 
 ## Links to example documents
 
-- [Group norms and expectations from Corrales group (Google slides)](https://docs.google.com/presentation/d/1aDtSCVHFylqv8cuqzBef-Hm4Q9RXSshkla6B-TxQQn4/edit?usp=drive_link)
-
-- [Code-of-conduct template from Corrales group (Google doc)](https://docs.google.com/document/d/1zTHNiDm3a3vMjVnUzep_QJay6dftj1fURKYn19wnkh8/edit?usp=drive_link)
-
 - [Code-of-conduct templates are available on the Astrobetter Wiki](https://www.astrobetter.com/wiki/Codes+of+Conduct)
 
 - [Mentoring agreement from the Bezanson group](https://docs.google.com/document/d/14B26jV5WksFV6svT1LdRv5SNmv6bUikLFq8vzJ-jBGk/edit?usp=drive_link)
+
+- [Group norms and expectations from Corrales group (Google slides)](https://docs.google.com/presentation/d/1aDtSCVHFylqv8cuqzBef-Hm4Q9RXSshkla6B-TxQQn4/edit?usp=drive_link)
+
+- [Code-of-conduct template from Corrales group (Google doc)](https://docs.google.com/document/d/1zTHNiDm3a3vMjVnUzep_QJay6dftj1fURKYn19wnkh8/edit?usp=drive_link)
 
 

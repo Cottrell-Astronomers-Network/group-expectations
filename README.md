@@ -1,5 +1,9 @@
 # Research Group Norms, Policies, and Mentoring Contracts
 
+These guidelines were constructed on 2024-07-16 by reviewing over a dozen example research group policy and mentoring agreement documents collected from the Cottrell Astronomy Network. In case of minor updates, you can [click here to go to the living document version of these guidelines](https://docs.google.com/document/d/1qd4igwqXK0L_CaJxOwKnmW50kVYUNIMqZRVYx-BrZ7U/edit?usp=sharing)
+
+This a CONTOUR-A endeavor funded by [Research Corporation for Science Advancement](https://rescorp.org/).
+
 ## Common Elements
 
 When constructing a set of group norms and policies for a research
